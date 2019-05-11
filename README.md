@@ -40,7 +40,7 @@
 ## Встановлення та використання
 ```bash
 git clone https://github.com/yana-miia/ali_analyzer
-cd ali_analyzer
+cd ali_analyzer/
 python3 main.py 
 ```
 Всі модулі програми містяться [тут](https://github.com/yana-miia/ali_analyzer), оскільки для спільної роботи над проектом було створено окремий репозиторій.
