@@ -38,9 +38,11 @@
 * Отримати персональні рекомендації щодо виводу товарів на ринок.
 
 ## Встановлення та використання
- git clone https://github.com/yana-miia/ali_analyzer.git
- cd ali_analyzer
- python3 main.py 
+  git clone git@github.com:yana-miia/ali_analyzer.git
+  
+  cd ali_analyzer
+  
+  python3 main.py 
  
 ## Опис тестових прикладів для первірки працездатності програми
 
