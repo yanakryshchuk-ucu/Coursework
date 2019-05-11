@@ -40,7 +40,9 @@
 ## Встановлення та використання
 ```bash
 git clone https://github.com/yana-miia/ali_analyzer.git
+
 cd ali_analyzer/
+
 python3 main.py 
 ```
 Всі модулі програми містяться [тут](https://github.com/yana-miia/ali_analyzer), оскільки для спільної роботи над проектом було створено окремий репозиторій.
@@ -49,8 +51,8 @@ python3 main.py
 
 
 ## Право власності
-Яна Крищук
+[Яна Крищук](https://github.com/yanakryshchuk-ucu/Coursework)
 
-Соломія Дубневич
+[Соломія Дубневич](https://github.com/rockqeen45/MarketAnalyzer1)
 
  
