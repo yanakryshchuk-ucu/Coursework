@@ -39,7 +39,7 @@
 
 ## Встановлення та використання
 ```bash
-git clone https://github.com/yana-miia/ali_analyzer
+git clone https://github.com/yana-miia/ali_analyzer.git
 cd ali_analyzer/
 python3 main.py 
 ```
