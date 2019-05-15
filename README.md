@@ -9,6 +9,8 @@
 ## Вхідні та вихідні дані програми
 Користувач обирає свою роль (Покупець/Продавець) та отримує список команд із описом, які для нього доступні.
 
+![image](https://github.com/yanakryshchuk-ucu/Coursework/blob/master/Images/Screenshot%20from%202019-05-16%2000-29-54.png)
+
 Список команд Продавця:
 * best products --> Show you the bestselling products.
 * demand --> Show you market demand with orders.
@@ -33,7 +35,7 @@
 * user.py - модуль, що містить клас User, який є батьківським для класів Seller та Buyer.
 * buyer.py - містить клас Buyer з методами, що відповідають за функціонал команд Покупця.
 * seller.py - містить клас Seller з методами, що відповідають за функціонал команд Продавця.
-* product.py - містить класи Product та DetailedProduct - підклас Product. 
+* product.py - містить класи Product та DetailedProduct - підклас Product.
 * ratings.py - містить класи Ratings та SellerRatings - підклас Ratings.
 
 
@@ -63,9 +65,9 @@ git clone https://github.com/yana-miia/ali_analyzer.git
 
 cd ali_analyzer/
 
-python3 main.py 
+python3 main.py
 ```
- 
+
 ## Опис тестових прикладів для первірки працездатності програми
 
 
@@ -73,5 +75,3 @@ python3 main.py
 [Яна Крищук](https://github.com/yanakryshchuk-ucu/Coursework)
 
 [Соломія Дубневич](https://github.com/rockqeen45/MarketAnalyzer1)
-
- 
