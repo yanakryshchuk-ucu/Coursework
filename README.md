@@ -1,4 +1,4 @@
-# AliExpress Analyzer
+![image](https://github.com/yanakryshchuk-ucu/Coursework/blob/master/IMG_20190515_220622_258-02.jpeg)
 Всі модулі програми містяться [тут](https://github.com/yana-miia/ali_analyzer), оскільки для спільної роботи над проектом було створено окремий репозиторій.
 
 ## Призначення та коротка характеристика програми
